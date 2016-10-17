@@ -2,7 +2,7 @@
 *.slo
 *.lo
 *.o
-*.obj
+#*.obj
 
 # Precompiled Headers
 *.gch
@@ -27,3 +27,9 @@
 *.exe
 *.out
 *.app
+
+#svn
+.svn
+CVSROOT/
+meshlab/web2/
+meshlab/web/
